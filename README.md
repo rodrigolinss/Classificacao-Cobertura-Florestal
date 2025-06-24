@@ -5,7 +5,7 @@
 Este projeto tem como objetivo classificar o tipo de cobertura florestal utilizando um modelo de deep learning baseado em redes neurais. O estudo foi conduzido como parte de um experimento acadêmico e utilizou o conjunto de dados [Covertype](https://archive.ics.uci.edu/dataset/31/covertype) do UCI Machine Learning Repository.
 
 O dataset contém informações cartográficas de áreas florestais no norte do Colorado, nos Estados Unidos, derivadas de fontes como o US Geological Survey (USGS) e o US Forest Service (USFS). O objetivo é prever a cobertura florestal com base em variáveis geográficas e ambientais.
-
+ 
 ---
 
 ## Estrutura dos Dados
